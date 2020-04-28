@@ -219,8 +219,8 @@
 - TBA
 
 
-[create-app-step-1]: ./Flutter_Workshop_Part_1/images/create-starter-app-img-01.png "Open Command Palette"
-[create-app-step-2]: ./Flutter_Workshop_Part_1/images/create-starter-app-img-02.png "Select New Flutter Project"
-[create-app-step-3]: ./Flutter_Workshop_Part_1/images/create-starter-app-img-03.png "Enter Project Name"
-[create-app-step-4]: ./Flutter_Workshop_Part_1/images/create-starter-app-img-04.png "Wait for Project Creation"
-[create-app-step-5]: ./Flutter_Workshop_Part_1/images/create-starter-app-img-05.png "Set Device to Chrome"
+[create-app-step-1]: ./images/create-starter-app-img-01.png "Open Command Palette"
+[create-app-step-2]: ./images/create-starter-app-img-02.png "Select New Flutter Project"
+[create-app-step-3]: ./images/create-starter-app-img-03.png "Enter Project Name"
+[create-app-step-4]: ./images/create-starter-app-img-04.png "Wait for Project Creation"
+[create-app-step-5]: ./images/create-starter-app-img-05.png "Set Device to Chrome"
